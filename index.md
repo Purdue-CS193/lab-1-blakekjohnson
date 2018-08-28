@@ -1,4 +1,8 @@
 # Blake Johnson's first CS193 Lab
+## Favorite things about CS193
+- Learning about resoures available for Purdue CS students
+- Gain more information about CS events
+- Utilize the resources provided
 
 ## Welcome to GitHub Pages
 
